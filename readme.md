@@ -9,7 +9,7 @@ access any WBF devices, including facial recognition and iris recognition.
 
 ## How to use
 
-You can integrate this interface with other command line and GUI programs to serve as authentication.
+You can integrate this interface with other command line and GUI programs to serve as an authentication.
 
 ```python
 myFP = FingerPrint()
